@@ -58,7 +58,7 @@ const IndexOnePage = () => {
                     <i className="flaticon-target" />
                   </div>
                   <h4>Have any Project On Minds ?</h4>
-                  <Link href="/contact">
+                  <Link href="/#contact">
                     <a className="details-btn">
                       <i className="far fa-arrow-right" />
                     </a>
@@ -71,7 +71,7 @@ const IndexOnePage = () => {
                     <i className="flaticon-target" />
                   </div>
                   <h4>We are to work SEO optimization ?</h4>
-                  <Link href="/contact">
+                  <Link href="/#contact">
                     <a className="details-btn">
                       <i className="far fa-arrow-right" />
                     </a>

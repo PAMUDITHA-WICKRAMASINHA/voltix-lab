@@ -23,20 +23,20 @@ const Hero = () => {
           <div className="container">
             <div className="slider-content">
               <span className="sub-title">
-                25 Years of Experience in web design solutions
+                Experience the best in web design solutions
               </span>
               <h1>Digital web design solutions agency</h1>
               <div className="slider-btns">
-                <Link href="/contact">
+                <Link href="/#contact">
                   <a className="theme-btn">
                     Get Started Us <i className="fas fa-angle-double-right" />
                   </a>
                 </Link>
-                <Link href="/services">
+                {/* <Link href="/services">
                   <a className="theme-btn style-three">
                     Explore Services <i className="fas fa-angle-double-right" />
                   </a>
-                </Link>
+                </Link> */}
               </div>
             </div>
           </div>
@@ -46,12 +46,12 @@ const Hero = () => {
               backgroundImage: "url(assets/images/slider/slide1.jpg)",
             }}
           >
-            <a
+            {/* <a
               href="https://www.youtube.com/watch?v=9Y7ma241N8k"
               className="mfp-iframe video-play"
             >
               <i className="fas fa-play" />
-            </a>
+            </a> */}
             <span className="video-title cd-headline clip">
               <span className="cd-words-wrapper">
                 <b className="is-visible">Web Design</b>
@@ -64,20 +64,20 @@ const Hero = () => {
           <div className="container">
             <div className="slider-content">
               <span className="sub-title">
-                25 Years of Experience in web design solutions
+                Experience the best in web design solutions
               </span>
               <h1>Digital web design solutions agency</h1>
               <div className="slider-btns">
-                <Link href="/contact">
+                <Link href="/#contact">
                   <a className="theme-btn">
                     Get Started Us <i className="fas fa-angle-double-right" />
                   </a>
                 </Link>
-                <Link href="/services">
+                {/* <Link href="/services">
                   <a className="theme-btn style-three">
                     Explore Services <i className="fas fa-angle-double-right" />
                   </a>
-                </Link>
+                </Link> */}
               </div>
             </div>
           </div>
@@ -87,12 +87,12 @@ const Hero = () => {
               backgroundImage: "url(assets/images/slider/slide2.jpg)",
             }}
           >
-            <a
+            {/* <a
               href="https://www.youtube.com/watch?v=9Y7ma241N8k"
               className="mfp-iframe video-play"
             >
               <i className="fas fa-play" />
-            </a>
+            </a> */}
             <span className="video-title cd-headline clip">
               <span className="cd-words-wrapper">
                 <b className="is-visible">Web Design</b>
@@ -105,20 +105,20 @@ const Hero = () => {
           <div className="container">
             <div className="slider-content">
               <span className="sub-title">
-                25 Years of Experience in web design solutions
+                Experience the best in web design solutions
               </span>
               <h1>Digital web design solutions agency</h1>
               <div className="slider-btns">
-                <Link href="/contact">
+                <Link href="/#contact">
                   <a className="theme-btn">
                     Get Started Us <i className="fas fa-angle-double-right" />
                   </a>
                 </Link>
-                <Link href="/services">
+                {/* <Link href="/services">
                   <a className="theme-btn style-three">
                     Explore Services <i className="fas fa-angle-double-right" />
                   </a>
-                </Link>
+                </Link> */}
               </div>
             </div>
           </div>
@@ -128,12 +128,12 @@ const Hero = () => {
               backgroundImage: "url(assets/images/slider/slide1.jpg)",
             }}
           >
-            <a
+            {/* <a
               href="https://www.youtube.com/watch?v=9Y7ma241N8k"
               className="mfp-iframe video-play"
             >
               <i className="fas fa-play" />
-            </a>
+            </a> */}
             <span className="video-title cd-headline clip">
               <span className="cd-words-wrapper">
                 <b className="is-visible">Web Design</b>

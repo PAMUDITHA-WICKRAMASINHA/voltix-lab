@@ -6,6 +6,9 @@ const Footer = ({ footer }) => {
       return <Footer1 />;
     case 2:
       return <Footer2 />;
+    case 2:
+      return <Footer3 />;
+
 
     default:
       return <DefaultFooter />;
@@ -13,7 +16,24 @@ const Footer = ({ footer }) => {
 };
 export default Footer;
 
-const Footer1 = () => (
+const Footer1 = () => {
+  const currentYear = new Date().getFullYear();
+
+  return (
+    <footer className="main-footer footer-two bgc-lighter">
+      <div className="footer-bottom pt-20 pb-10">
+        <div className="container">
+          <div className="copyright-text text-center">
+            <p>© Copyright {currentYear} Voltix Lab. All rights reserved.</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+  );
+};
+
+
+const Footer2 = () => (
   <footer className="main-footer footer-two pt-80 bgc-lighter">
     <div className="container">
       <div className="row justify-content-xl-between justify-content-center">
@@ -111,7 +131,7 @@ const Footer1 = () => (
   </footer>
 );
 
-const Footer2 = () => (
+const Footer3 = () => (
   <footer className="main-footer bgc-dark-blue text-white rel z-1">
     <div className="container">
       <div

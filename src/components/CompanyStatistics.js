@@ -22,7 +22,7 @@ const CompanyStatistics = () => {
                   <div className="col-xl-4 col-lg-6 col-md-4 col-sm-6">
                     <div className="counter-item style-two counter-text-wrap wow fadeInRight delay-0-3s">
                       <i className="flaticon-startup" />
-                      <Counter end={2365} />
+                      <Counter end={100} />
                       <span className="counter-title">Projects complete</span>
                       <p>On the other denonce with righteous indin</p>
                     </div>
@@ -30,7 +30,7 @@ const CompanyStatistics = () => {
                   <div className="col-xl-4 col-lg-6 col-md-4 col-sm-6">
                     <div className="counter-item style-two counter-text-wrap wow fadeInRight delay-0-5s">
                       <i className="flaticon-global" />
-                      <Counter end={5234} />
+                      <Counter end={10} />
                       <span className="counter-title">Global Client’s</span>
                       <p>On the other denonce with righteous indin</p>
                     </div>
@@ -38,7 +38,7 @@ const CompanyStatistics = () => {
                   <div className="col-xl-4 col-lg-6 col-md-4 col-sm-6">
                     <div className="counter-item style-two counter-text-wrap wow fadeInRight delay-0-7s">
                       <i className="flaticon-rating" />
-                      <Counter end={8532} />
+                      <Counter end={100} />
                       <span className="counter-title">Happy Customer</span>
                       <p>On the other denonce with righteous indin</p>
                     </div>

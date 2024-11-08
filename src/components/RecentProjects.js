@@ -23,16 +23,16 @@ const RecentProjects = () => {
               alt="Project"
             />
             <div className="project-over">
-              <Link href="/project-details">
-                <a className="details-btn">
+              {/* <Link href="/project-details"> */}
+                {/* <a className="details-btn"> */}
                   <i className="far fa-arrow-right" />
-                </a>
-              </Link>
+                {/* </a> */}
+              {/* </Link> */}
             </div>
           </div>
           <div className="project-content">
             <h4>
-              <Link href="/project-details">Creative Website design</Link>
+              Creative Website design
             </h4>
             <span className="category">Design Responsive</span>
           </div>
@@ -44,16 +44,16 @@ const RecentProjects = () => {
               alt="Project"
             />
             <div className="project-over">
-              <Link href="/project-details">
-                <a className="details-btn">
+              {/* <Link href="/project-details"> */}
+                {/* <a className="details-btn"> */}
                   <i className="far fa-arrow-right" />
-                </a>
-              </Link>
+                {/* </a> */}
+              {/* </Link> */}
             </div>
           </div>
           <div className="project-content">
             <h4>
-              <Link href="/project-details">Software Landing Pages</Link>
+              Software Landing Pages
             </h4>
             <span className="category">Design Responsive</span>
           </div>
@@ -65,16 +65,16 @@ const RecentProjects = () => {
               alt="Project"
             />
             <div className="project-over">
-              <Link href="/project-details">
-                <a className="details-btn">
+              {/* <Link href="/project-details"> */}
+                {/* <a className="details-btn"> */}
                   <i className="far fa-arrow-right" />
-                </a>
-              </Link>
+                {/* </a> */}
+              {/* </Link> */}
             </div>
           </div>
           <div className="project-content">
             <h4>
-              <Link href="/project-details">Mobile Application Design</Link>
+              Mobile Application Design
             </h4>
             <span className="category">Design Responsive</span>
           </div>
@@ -86,16 +86,16 @@ const RecentProjects = () => {
               alt="Project"
             />
             <div className="project-over">
-              <Link href="/project-details">
-                <a className="details-btn">
+              {/* <Link href="/project-details"> */}
+                {/* <a className="details-btn"> */}
                   <i className="far fa-arrow-right" />
-                </a>
-              </Link>
+                {/* </a> */}
+              {/* </Link> */}
             </div>
           </div>
           <div className="project-content">
             <h4>
-              <Link href="/project-details">Software Landing Pages</Link>
+              Software Landing Pages
             </h4>
             <span className="category">Design Responsive</span>
           </div>

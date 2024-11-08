@@ -22,9 +22,7 @@ const CoreDesignFeatured = () => {
                       </div>
                       <div className="content">
                         <h4>
-                          <Link href="/service-details">
-                            <a>Website Creation from Scratch</a>
-                          </Link>
+                        Website Creation from Scratch
                         </h4>
                         <Link href="/service-details">
                           <a className="more-btn">
@@ -41,9 +39,7 @@ const CoreDesignFeatured = () => {
                       </div>
                       <div className="content">
                         <h4>
-                          <Link href="/service-details">
-                            <a>Website maintenance Services</a>
-                          </Link>
+                        Website maintenance Services
                         </h4>
                         <Link href="/service-details">
                           <a className="more-btn">
@@ -78,9 +74,7 @@ const CoreDesignFeatured = () => {
                       </div>
                       <div className="content">
                         <h4>
-                          <Link href="/service-details">
-                            <a>eCommerce and product selling</a>
-                          </Link>
+                        Mobile app development
                         </h4>
                         <Link href="/service-details">
                           <a className="more-btn">
