@@ -5,7 +5,7 @@ const About = () => {
         <div className="row justify-content-between align-items-center">
           <div className="col-lg-5">
             <div className="about-image-one bg-squire-shape rmb-85 wow fadeInUp delay-0-2s">
-              <img src="assets/images/about/about-one.jpg" alt="About us" />
+              <img src="assets/images/about/about-one.webp" alt="About us" />
               <img
                 className="image-left"
                 src="assets/images/shapes/image-left.png"

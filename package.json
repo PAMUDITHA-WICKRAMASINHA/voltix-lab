@@ -1,5 +1,5 @@
 {
-  "name": "oxence-react",
+  "name": "Voltix Lab",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,6 +12,7 @@
   "dependencies": {
     "isotope-layout": "^3.0.6",
     "next": "12.3.1",
+    "next-sitemap": "^4.2.3",
     "react": "18.2.0",
     "react-bootstrap": "^1.6.1",
     "react-circular-progressbar": "^2.1.0",

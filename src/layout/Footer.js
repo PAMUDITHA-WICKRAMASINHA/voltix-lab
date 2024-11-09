@@ -124,7 +124,7 @@ const Footer2 = () => (
     <div className="footer-bottom mt-30 pt-25 pb-10">
       <div className="container">
         <div className="copyright-text text-center">
-          <p>© Copyright 2022 Oxence. All right reserved</p>
+          <p>© Copyright 2022 Voltix Lab. All right reserved</p>
         </div>
       </div>
     </div>
@@ -235,7 +235,7 @@ const Footer3 = () => (
             <a href="#">Contacts</a>
           </li>
         </ul>
-        <p>© Copyright 2022 Oxence. All right reserved</p>
+        <p>© Copyright 2022 Voltix Lab. All right reserved</p>
       </div>
     </div>
     <div className="wave-shapes">
@@ -346,7 +346,7 @@ const DefaultFooter = () => (
         <div className="row align-items-center">
           <div className="col-lg-6">
             <div className="copyright-text text-center text-lg-start">
-              <p>© Copyright 2022 Oxence. All right reserved</p>
+              <p>© Copyright 2022 Voltix Lab. All right reserved</p>
             </div>
           </div>
           <div className="col-lg-6">

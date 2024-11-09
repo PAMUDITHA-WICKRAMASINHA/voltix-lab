@@ -43,7 +43,7 @@ const Hero = () => {
           <div
             className="slider-video"
             style={{
-              backgroundImage: "url(assets/images/slider/slide1.jpg)",
+              backgroundImage: "url(assets/images/slider/slide1.webp)",
             }}
           >
             {/* <a
@@ -84,7 +84,7 @@ const Hero = () => {
           <div
             className="slider-video"
             style={{
-              backgroundImage: "url(assets/images/slider/slide2.jpg)",
+              backgroundImage: "url(assets/images/slider/slide2.webp)",
             }}
           >
             {/* <a
@@ -125,7 +125,7 @@ const Hero = () => {
           <div
             className="slider-video"
             style={{
-              backgroundImage: "url(assets/images/slider/slide1.jpg)",
+              backgroundImage: "url(assets/images/slider/slide1.webp)",
             }}
           >
             {/* <a

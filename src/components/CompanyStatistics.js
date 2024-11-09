@@ -49,7 +49,7 @@ const CompanyStatistics = () => {
             <div className="col-lg-5">
               <div className="statistics-three-image bg-squire-shape mb-30 wow fadeInLeft delay-0-3s">
                 <img
-                  src="assets/images/about/statictics.jpg"
+                  src="assets/images/about/statictics.webp"
                   alt="Statictics"
                 />
                 <img

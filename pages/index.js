@@ -17,12 +17,6 @@ const IndexOnePage = () => {
   return (
     <Layout className="home-one" footer={1} noHeader>
       <Head>
-        {" "}
-        <link
-          rel="shortcut icon"
-          href="assets/images/favicon1.png"
-          type="image/x-icon"
-        />
       </Head>
 
       <Header />
